@@ -1,0 +1,65 @@
+{
+  "name": "Obridge Default List",
+  "timestamp": "2022-11-01T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.obridge.finance/logo.png",
+  "keywords": [
+    "obridge",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "DynoChain Token",
+      "address": "0xB876F815FeA75A0DB8E3D06d69bA25204E1466C7",
+      "symbol": "DND",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/tokens/56/0xB876F815FeA75A0DB8E3D06d69bA25204E1466C7.png"
+    },
+    {
+      "name": "Dyno USD",
+      "symbol": "DUSD",
+      "address": "0x7E862715C41DD918f14d545F68D68ed23888E203",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/tokens/97/0x7E862715C41DD918f14d545F68D68ed23888E203.png"
+    },
+    {
+      "name": "Dyno Token",
+      "address": "0x3170Cad872f6f7Dccb398b0538D149fD01c1F882",
+      "symbol": "DND",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/tokens/97/0x3170Cad872f6f7Dccb398b0538D149fD01c1F882.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x49AD744AED003b48Dcb5Ef093211542908c98099",
+      "symbol": "BNB",
+      "chainId": 7363,
+      "decimals": 18,
+      "logoURI": "/images/tokens/56/0x49AD744AED003b48Dcb5Ef093211542908c98099.png"
+    },
+    {
+      "name": "Dyno USD",
+      "symbol": "DUSD",
+      "address": "0xBE3735517eB0C286E581A54f802D1218cFE781fD",
+      "chainId": 7364,
+      "decimals": 18,
+      "logoURI": "/images/tokens/7364/0xBE3735517eB0C286E581A54f802D1218cFE781fD.png"
+    },
+    {
+      "name": "Dyno Binance Coin",
+      "symbol": "BNB",
+      "address": "0x71aAe0395d38B7626172c14876e03fBA024a9f52",
+      "chainId": 7364,
+      "decimals": 18,
+      "logoURI": "/images/tokens/7364/0xBE3735517eB0C286E581A54f802D1218cFE781fD.png"
+    }
+  ]
+}
